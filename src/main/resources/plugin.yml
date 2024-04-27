@@ -1,0 +1,4 @@
+name: test-repository
+version: '${project.version}'
+main: com.github.saidred.testrepository.Test_repository
+api-version: '1.20'
